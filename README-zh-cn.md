@@ -2,7 +2,7 @@
 
 <a href="https://github.com/DearVa/Everywhere">Go to English Version »</a>
 
-[![.NET 9][.NET 9]][.NET-url][![Avalonia][Avalonia]][Avalonia-url]
+[![.NET 10][.NET 10]][.NET-url][![Avalonia][Avalonia]][Avalonia-url]
 [![加入 Discord](https://dcbadge.limes.pink/api/server/5fyg6nE3yn)](https://discord.gg/5fyg6nE3yn)
 [![加入 QQ 群][QQ-Group]](https://qm.qq.com/cgi-bin/qm/qr?k=wp9aDBBnLc7pYATqT99tB-N2ZP2ETmJC&jump_from=webapi&authKey=97qUJfsQoI70dUNcgBZ0C3HCZeiEn8inLT7pzg8x+KinbQwfIrHFu3dB2+aHMbRD)
 
@@ -25,7 +25,7 @@
   <p align="center">
     <a href="https://everywhere.sylinko.com/zh-CN/"><strong>查看文档 »</strong></a>
     &nbsp;&middot;&nbsp;
-    <a href="【你的下一代 AI 助手｜Everywhere】 https://www.bilibili.com/video/BV1mcxvzfESz"><strong>观看宣传片 »</strong></a>
+    <a href="https://www.bilibili.com/video/BV1mcxvzfESz"><strong>观看宣传片 »</strong></a>
     <br />
     <br />
     <a href="https://github.com/DearVa/Everywhere">查看演示</a>
@@ -43,28 +43,28 @@
 ### 🌟 使用场景示例
 
 <details open>
-<summary><b>❔ 疑难杂症专家</b></summary>
+<summary><b>❔ 故障排除专家</b></summary>
 
-> 当您在使用电脑时，弹出了一个错误消息，但您不确定如何解决
+> 当你在使用电脑时遇到错误消息，但不确定如何解决。
 >
-> 📌 在错误消息旁**唤起 Everywhere**
+> 📌 在错误消息旁**呼出 Everywhere**
 >
-> 🗣️ **命令:** "这是什么错误？如何解决？"
+> 🗣️ **指令:** "这是什么错误？如何解决？"
 >
-> ✨ **结果:** Everywhere 捕获消息上下文并给出解决方案
+> ✨ **结果:** Everywhere 捕获消息上下文并给出解决方案。
 
 </details>
 
 <details open>
 <summary><b>📰 快速网页摘要</b></summary>
 
-> 您正在浏览一篇冗长的技术文章，但只需要了解关键要点
+> 您正在浏览一篇冗长的技术文章，但只需要了解关键要点。
 >
-> 📌 在网页上**唤起 Everywhere**
+> 📌 在网页上**呼出 Everywhere**
 >
-> 🗣️ **命令:** "给我一个简短的总结"
+> 🗣️ **指令:** "给我一个简短的总结。"
 >
-> ✨ **结果:** 无需阅读整篇内容，立即获取主要论点
+> ✨ **结果:** 无需阅读整篇内容，立即获取主要论点。
 
 </details>
 
@@ -73,24 +73,24 @@
 
 > 在研究过程中遇到外语文本
 >
-> 📌 在文本上**唤起 Everywhere**
+> 📌 在文本上**呼出 Everywhere**
 >
-> 🗣️ **命令:** "把这个翻译成中文"
+> 🗣️ **指令:** "把这个翻译成中文。"
 >
-> ✨ **结果:** 无需切换到其他应用，立即查看翻译结果
+> ✨ **结果:** 立即查看翻译结果，无需切换到其他应用。
 
 </details>
 
 <details open>
-<summary><b>✉️ 邮件起草辅助</b></summary>
+<summary><b>✉️ 邮件起草</b></summary>
 
 > 您正在撰写一封重要的商务邮件，但不确定语气是否恰当
 >
-> 📌 在草稿上**唤起 Everywhere**
+> 📌 在草稿上**呼出 Everywhere**
 >
-> 🗣️ **命令:** "让这封邮件更专业一些"
+> 🗣️ **指令:** "让这封邮件更专业一些"
 >
-> ✨ **结果:** 您的文本被转化为精炼的商务沟通内容
+> ✨ **结果:** 随意的文字转变成了润色过的、适合商务的沟通内容。
 
 </details>
 
@@ -150,10 +150,10 @@
     <tr>
       <td><b>🖥️ 平台支持</b></td>
       <td>
-        • Windows
+        • Windows<br>
+        • macOS
       </td>
       <td>
-        • macOS<br>
         • Linux
       </td>
     </tr>
